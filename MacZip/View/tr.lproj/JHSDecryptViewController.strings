@@ -1,0 +1,9 @@
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "5Mu-na-rCk"; */
+"5Mu-na-rCk.title" = "Tamam";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "AS3-Lg-3ct"; */
+"AS3-Lg-3ct.title" = "İptal";
+
+/* Class = "NSTextFieldCell"; title = "请输入您的密码："; ObjectID = "Dkq-1m-IDF"; */
+"Dkq-1m-IDF.title" = "Lütfen şifreyi girin:";

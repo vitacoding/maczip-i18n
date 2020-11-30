@@ -1,0 +1,12 @@
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "9bj-NU-nTz"; */
+"9bj-NU-nTz.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "文档已加密，请输入密码："; ObjectID = "E5r-Cf-zKA"; */
+"E5r-Cf-zKA.title" = "檔案已加密，請輸入密碼：";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "PwD-vI-4lu"; */
+"PwD-vI-4lu.title" = "確定";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "j8n-9H-SQg"; */
+"j8n-9H-SQg.title" = "取消";

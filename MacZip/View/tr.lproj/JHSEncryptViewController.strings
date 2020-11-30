@@ -1,0 +1,15 @@
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "确认密码"; ObjectID = "XXF-eJ-7wr"; */
+"XXF-eJ-7wr.placeholderString" = "Parolayı Onayla";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "输入密码"; ObjectID = "ayX-mX-x4c"; */
+"ayX-mX-x4c.placeholderString" = "Parola girin";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "pGi-xd-ywq"; */
+"pGi-xd-ywq.title" = "İptal";
+
+/* Class = "NSButtonCell"; title = "确定"; ObjectID = "yDQ-Ug-mRl"; */
+"yDQ-Ug-mRl.title" = "Tamam";
+
+/* Class = "NSTextFieldCell"; title = "注意：文件加密后，将无法再打开或预览。您可以放心存放在任何地方。要想再次查看文件内容，需解密后方可打开。重要文档，请务必在加密前备份好相关密码，一旦密码丢失将无法找回！"; ObjectID = "zhA-AH-ibW"; */
+"zhA-AH-ibW.title" = "Not: Dosya şifrelendikten sonra artık açılamaz veya önizlenemez. Herhangi bir yerde güvenle saklayabilirsiniz. Dosyanın içeriğini tekrar görüntülemek isterseniz, açmadan önce şifresini çözmelisiniz. Önemli belgeler, lütfen emin olun şifrelemeden önce ilgili parolayı yedekleyin, parola kaybedildiğinde geri alınmayacaktır! ";

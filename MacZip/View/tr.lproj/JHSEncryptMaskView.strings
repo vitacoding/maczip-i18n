@@ -1,0 +1,12 @@
+
+/* Class = "NSTextFieldCell"; title = "Searching passwords..."; ObjectID = "9JE-w9-EZW"; */
+"9JE-w9-EZW.title" = "Parola aranıyor...";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "B0y-a4-WPP"; */
+"B0y-a4-WPP.title" = "İptal";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Please enter the password"; ObjectID = "Mfh-T5-4G8"; */
+"Mfh-T5-4G8.placeholderString" = "Lütfen şifreyi girin";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Please enter the password"; ObjectID = "rU0-od-3GD"; */
+"rU0-od-3GD.placeholderString" = "Lütfen şifreyi girin";

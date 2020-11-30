@@ -1,0 +1,11 @@
+"Name" = "名稱";
+"Date Modified" = "修改日期";
+"Size" = "大小";
+"Kind" = "種類";
+"File" = "文件";
+"Folder" = "文件夾";
+"Archive is encrypted, can't be previewed!" = "文檔已加密，無法預覽！";
+"Archive %@ (Original %@) a total of %d Files" = "封存包 %@ (原 %@) 共 %d 個檔案";
+"Archive %@ (Original %@) a total of %d Files and %d Folders" = "封存包 %@ (原 %@) 共 %d 個檔案和 %d 個檔案夾";
+"Archive %@ (Original %@) a total of %d Folders" = "封存包 %@ (原 %@) 共 %d 個檔案夾";
+"Archive (Empty)" = "封存包 (空檔案)";

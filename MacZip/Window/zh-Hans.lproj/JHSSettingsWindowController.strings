@@ -1,0 +1,114 @@
+
+/* Class = "NSButtonCell"; title = "Follow System"; ObjectID = "0vB-Hd-NYg"; */
+"0vB-Hd-NYg.title" = "跟随系统";
+
+/* Class = "NSButtonCell"; title = "Get QSpace"; ObjectID = "2HJ-T5-8BC"; */
+"2HJ-T5-8BC.title" = "获取 QSpace";
+
+/* Class = "NSButtonCell"; title = "Ignore .git and .svn folders"; ObjectID = "2ID-US-8na"; */
+"2ID-US-8na.title" = "忽略 .git 与 .svn 文件夹";
+
+/* Class = "NSButtonCell"; title = "Show side Preview by default"; ObjectID = "64h-Ol-XK8"; */
+"64h-Ol-XK8.title" = "默认显示侧边预览";
+
+/* Class = "NSMenuItem"; title = "<= 10 MB"; ObjectID = "8tb-6d-kaj"; */
+"8tb-6d-kaj.title" = "<= 10 MB";
+
+/* Class = "NSButtonCell"; title = "Reset Current Page"; ObjectID = "92V-Fm-gJs"; */
+"92V-Fm-gJs.title" = "恢复本页默认设置";
+
+/* Class = "NSButtonCell"; title = "Archive each selected item separately"; ObjectID = "Asc-P4-Ihu"; */
+"Asc-P4-Ihu.title" = "独立压缩每个选择项目";
+
+/* Class = "NSMenuItem"; title = "<= 50 MB"; ObjectID = "DKr-I3-eML"; */
+"DKr-I3-eML.title" = "<= 50 MB";
+
+/* Class = "NSMenuItem"; title = "<= 100 MB"; ObjectID = "Dcf-HB-aBb"; */
+"Dcf-HB-aBb.title" = "<= 100 MB";
+
+/* Class = "NSWindow"; title = "Preferences - MacZip"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "MacZip偏好设置";
+
+/* Class = "NSButtonCell"; title = "Select target in Finder after archive is completed"; ObjectID = "GuV-CU-xoy"; */
+"GuV-CU-xoy.title" = "压缩完成后在访达选中目标文件";
+
+/* Class = "NSButtonCell"; title = "Auto update"; ObjectID = "HMf-8K-0DW"; */
+"HMf-8K-0DW.title" = "开启自动更新";
+
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "KPX-Gu-lHh"; */
+"KPX-Gu-lHh.title" = "深色";
+
+/* Class = "NSButtonCell"; title = "Reset Current Page"; ObjectID = "L2p-Ya-0Ke"; */
+"L2p-Ya-0Ke.title" = "恢复本页默认设置";
+
+/* Class = "NSMenuItem"; title = "<= 1 MB"; ObjectID = "QIy-j4-B14"; */
+"QIy-j4-B14.title" = "<= 1 MB";
+
+/* Class = "NSTextFieldCell"; title = "QSpace is alternate of Finder developed by the author of MacZip, it's well worth a try!\n\n[ Features ]\n\n* Browse archives just like browsing a folder!\n* Present 4 folders in one window at the same time.\n* Quickly access any location!\n* Create any kind of new files at any folder.\n* One-click to open Terminal & Editor.\n* Connect to FTP/SFTP/WebDAV/OneDrive servers.\n* Rich customization: Context Menu, Hotkeys, Toolbar, Touch Bar.\n\nAnd more..."; ObjectID = "R7W-0f-Ude"; */
+"R7W-0f-Ude.title" = "QSpace 是由MacZip作者开发的一款访达增强文件管理器，值得一试！\n\n【功能特性】\n\n* 像浏览文件夹一样浏览压缩包！\n* 支持在一个窗口内同时展示4个文件夹。\n* 轻松访问任意路径！\n* 支持新建各种类型的文档。\n* 支持一键启动终端或编辑器。\n* 支持连接 FTP/SFTP/WebDAV/OneDrive 等服务器。\n* 丰富的自定义项：右键菜单、快捷键、工具栏、触控栏。\n\n还有更多...";
+
+/* Class = "NSTextFieldCell"; title = "To keep security of your system and privacy, MacZip is based on the Apple's Sandbox mechanism. The file association needs to be set byMacZip Assistant\" or manually.\n\n[Manual Steps]\n\n1. On the file you wish to set the association, call the right-click menu.\n2. Click on the \"Get Info\" menu item.\n3. SelecMacZip in \"Open with\".\n4. Click \"Change All...\" to associate this type of file.\n"; ObjectID = "Ts6-Td-uhc"; */
+"Ts6-Td-uhc.title" = "为保障您的系统和隐私安全，MacZip 基于苹果沙盒（Sandbox）机制开发。文件打开关联，可以通过“MacZip 助手”或手动设置。\n\n【手动设置】\n\n1. 在您希望设置关联的文件上，呼出右键菜单。\n2. 点击“显示简介”菜单项。\n3. 在“打开方式”中选择 MacZip。\n4. 点击“全部更改…”即可关联此类型文件。";
+
+/* Class = "NSButtonCell"; title = "Preview document files automatically"; ObjectID = "Vl4-By-h83"; */
+"Vl4-By-h83.title" = "自动预览文档文件";
+
+/* Class = "NSButtonCell"; title = "Trim original extension when archiving single file"; ObjectID = "WeL-5S-C8x"; */
+"WeL-5S-C8x.title" = "压缩单文件时，省略原扩展名";
+
+/* Class = "NSButtonCell"; title = "Keep open history"; ObjectID = "Xet-aH-EEi"; */
+"Xet-aH-EEi.title" = "记录最近打开文件";
+
+/* Class = "NSButtonCell"; title = "Set by MacZip Assistant"; ObjectID = "YSd-G8-vrP"; */
+"YSd-G8-vrP.title" = "通过 MacZip 助手设置";
+
+/* Class = "NSButtonCell"; title = "Show Toolbar at windows top"; ObjectID = "bnJ-6v-mzv"; */
+"bnJ-6v-mzv.title" = "显示窗口顶部的工具栏";
+
+/* Class = "NSButtonCell"; title = "One-click Archive (Skip compress settings interface)"; ObjectID = "d3O-90-PlZ"; */
+"d3O-90-PlZ.title" = "开启一键压缩（压缩时跳过设置界面）";
+
+/* Class = "NSButtonCell"; title = "Auto save entered password"; ObjectID = "eCv-Vb-PYA"; */
+"eCv-Vb-PYA.title" = "自动保存已输入的密码";
+
+/* Class = "NSButtonCell"; title = "Close window after extracting all is completed"; ObjectID = "goL-t6-Qxi"; */
+"goL-t6-Qxi.title" = "解压完成后关闭窗口";
+
+/* Class = "NSButtonCell"; title = "Reset Current Page"; ObjectID = "hUg-pb-TWr"; */
+"hUg-pb-TWr.title" = "恢复本页默认设置";
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "jSk-bQ-esJ"; */
+"jSk-bQ-esJ.title" = "浅色";
+
+/* Class = "NSButtonCell"; title = "Open the target folder after the extraction is completed"; ObjectID = "nYr-GP-vge"; */
+"nYr-GP-vge.title" = "解压完成后打开目标文件夹";
+
+/* Class = "NSButtonCell"; title = "Preview smaller files automatically:"; ObjectID = "ncU-0x-yCc"; */
+"ncU-0x-yCc.title" = "自动预览较小文件：";
+
+/* Class = "NSButtonCell"; title = "Automatically try passwords in the list when opening archives"; ObjectID = "nh8-q9-0er"; */
+"nh8-q9-0er.title" = "打开压缩包时，自动尝试清单中的密码";
+
+/* Class = "NSButtonCell"; title = "Ignore hidden files which name starts with \".\""; ObjectID = "pG2-bQ-pgz"; */
+"pG2-bQ-pgz.title" = "忽略名称以 \".\" 打头的隐藏文件";
+
+/* Class = "NSButtonCell"; title = "Remove original files after compression is completed"; ObjectID = "tb2-ZE-tsi"; */
+"tb2-ZE-tsi.title" = "压缩完成后删除原始文件";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "uAu-bI-iz6"; */
+"uAu-bI-iz6.title" = "保存";
+
+/* Class = "NSTextFieldCell"; title = "Password List ( one per line)"; ObjectID = "uZo-Bt-e8m"; */
+"uZo-Bt-e8m.title" = "密码清单（一行一个）";
+
+/* Class = "NSButtonCell"; title = "Remove original archive after decompression is completed"; ObjectID = "vO7-qd-kzE"; */
+"vO7-qd-kzE.title" = "解压缩完成后删除原始压缩包";
+
+/* Class = "NSButtonCell"; title = "Ignore .DS_Store temporary files"; ObjectID = "vnb-c2-rpp"; */
+"vnb-c2-rpp.title" = "忽略 .DS_Store 等系统临时文件";
+
+/* Class = "NSMenuItem"; title = "<= 5 MB"; ObjectID = "xQZ-lZ-GEP"; */
+"xQZ-lZ-GEP.title" = "<= 5 MB";
+
+/* Class = "NSButtonCell"; title = "Preview image files automatically"; ObjectID = "ylc-UH-z9v"; */
+"ylc-UH-z9v.title" = "自动预览图片文件";

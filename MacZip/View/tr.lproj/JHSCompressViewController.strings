@@ -1,0 +1,21 @@
+
+/* Class = "NSButtonCell"; title = "Compress"; ObjectID = "3q1-oD-sfH"; */
+"3q1-oD-sfH.title" = "Sıkıştır";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Turn on one-click compression."; ObjectID = "GTH-iw-2GD"; */
+"GTH-iw-2GD.ibShadowedToolTip" = "Tek tıkla sıkıştırmayı açın.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "One selection on archive."; ObjectID = "UxR-4z-LJq"; */
+"UxR-4z-LJq.ibShadowedToolTip" = "Arşivde bir seçim.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Please enter the archive name"; ObjectID = "f54-In-fkm"; */
+"f54-In-fkm.placeholderString" = "Lütfen arşiv adını girin";
+
+/* Class = "NSButtonCell"; title = "Compress separately"; ObjectID = "mKC-ST-DMg"; */
+"mKC-ST-DMg.title" = "Ayrı olarak sıkıştır";
+
+/* Class = "NSButtonCell"; title = "Location"; ObjectID = "pzD-KK-ct1"; */
+"pzD-KK-ct1.title" = "Konum";
+
+/* Class = "NSButtonCell"; title = "One-click Compress"; ObjectID = "wPF-2D-4Pd"; */
+"wPF-2D-4Pd.title" = "Tek Tıkla Sıkıştır";

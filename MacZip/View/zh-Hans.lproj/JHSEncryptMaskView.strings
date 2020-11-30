@@ -1,0 +1,12 @@
+
+/* Class = "NSTextFieldCell"; title = "Searching passwords..."; ObjectID = "9JE-w9-EZW"; */
+"9JE-w9-EZW.title" = "正在搜索密码...";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "B0y-a4-WPP"; */
+"B0y-a4-WPP.title" = "取消";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Please enter the password"; ObjectID = "Mfh-T5-4G8"; */
+"Mfh-T5-4G8.placeholderString" = "请输入密码";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Please enter the password"; ObjectID = "rU0-od-3GD"; */
+"rU0-od-3GD.placeholderString" = "请输入密码";

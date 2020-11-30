@@ -1,0 +1,9 @@
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1sF-XK-ltG"; */
+"1sF-XK-ltG.title" = "取消";
+
+/* Class = "NSWindow"; title = "Downloading Assistant - MacZip"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "下載 - MacZip";
+
+/* Class = "NSTextFieldCell"; title = "Downloading..."; ObjectID = "j3N-2T-2f5"; */
+"j3N-2T-2f5.title" = "正在下載...";

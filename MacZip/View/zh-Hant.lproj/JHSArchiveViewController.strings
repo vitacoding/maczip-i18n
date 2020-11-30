@@ -1,0 +1,105 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Find in this archive"; ObjectID = "038-Zd-CQP"; */
+"038-Zd-CQP.ibShadowedToolTip" = "在封存包內查找";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "7Tk-CK-VHT"; */
+"7Tk-CK-VHT.title" = "Table View Cell";
+
+/* Class = "NSView"; ibShadowedToolTip = "Add new files"; ObjectID = "7gq-oy-CQV"; */
+"7gq-oy-CQV.ibShadowedToolTip" = "添加新檔案";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Find"; ObjectID = "8dg-ED-Veh"; */
+"8dg-ED-Veh.placeholderString" = "查找";
+
+/* Class = "NSTextFieldCell"; title = "Add"; ObjectID = "Akc-MV-hGK"; */
+"Akc-MV-hGK.title" = "添加";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Bgi-Mx-hDm"; */
+"Bgi-Mx-hDm.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Preview"; ObjectID = "DFP-cx-VLK"; */
+"DFP-cx-VLK.title" = "預覽";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EdA-vd-Au4"; */
+"EdA-vd-Au4.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Reveal in QSpace"; ObjectID = "GcG-Fd-c6B"; */
+"GcG-Fd-c6B.title" = "在QSpace顯示";
+
+/* Class = "NSView"; ibShadowedToolTip = "Clean up temporary files"; ObjectID = "IP3-PU-Rs3"; */
+"IP3-PU-Rs3.ibShadowedToolTip" = "清理封存包中的臨時檔案";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JV1-bR-y2r"; */
+"JV1-bR-y2r.title" = "Text Cell";
+
+/* Class = "NSView"; ibShadowedToolTip = "Remove selections"; ObjectID = "Js8-9F-WVi"; */
+"Js8-9F-WVi.ibShadowedToolTip" = "從封存包中移除選中內容";
+
+/* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "LAM-ex-qV5"; */
+"LAM-ex-qV5.headerCell.title" = "種類";
+
+/* Class = "NSTextFieldCell"; title = "Clean"; ObjectID = "OK6-Pa-Ubs"; */
+"OK6-Pa-Ubs.title" = "一鍵清理";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "QNi-Gc-1AP"; */
+"QNi-Gc-1AP.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "No items selected."; ObjectID = "QQL-AB-1F9"; */
+"QQL-AB-1F9.title" = "未選擇項目。";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Rme-HR-ex3"; */
+"Rme-HR-ex3.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Ygf-nu-CIO"; */
+"Ygf-nu-CIO.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Extract"; ObjectID = "Ynt-QI-oI8"; */
+"Ynt-QI-oI8.title" = "提取";
+
+/* Class = "NSView"; ibShadowedToolTip = "Extract the whole archive"; ObjectID = "bE4-0S-KNi"; */
+"bE4-0S-KNi.ibShadowedToolTip" = "解壓全部內容";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "cBo-jW-sSW"; */
+"cBo-jW-sSW.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "cGF-mF-ZqR"; */
+"cGF-mF-ZqR.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "dzB-5P-Ouy"; */
+"dzB-5P-Ouy.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "g8k-jx-oSb"; */
+"g8k-jx-oSb.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Extract All"; ObjectID = "h8w-qB-7Oq"; */
+"h8w-qB-7Oq.title" = "全部解壓";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "jm7-Vw-Otl"; */
+"jm7-Vw-Otl.headerCell.title" = "修改日期";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "lJN-Eu-yWC"; */
+"lJN-Eu-yWC.headerCell.title" = "名稱";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show side preview"; ObjectID = "lao-VW-wYH"; */
+"lao-VW-wYH.ibShadowedToolTip" = "顯示側邊預覽";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Using regular expressions"; ObjectID = "lzH-cJ-3tt"; */
+"lzH-cJ-3tt.ibShadowedToolTip" = "使用正則表達式";
+
+/* Class = "NSView"; ibShadowedToolTip = "Extract selections"; ObjectID = "mTs-bh-FHn"; */
+"mTs-bh-FHn.ibShadowedToolTip" = "解壓已選擇內容";
+
+/* Class = "NSTextFieldCell"; title = "Remove"; ObjectID = "oe1-Se-DFS"; */
+"oe1-Se-DFS.title" = "移除";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "u8i-Fb-66F"; */
+"u8i-Fb-66F.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Case sensitive"; ObjectID = "xKN-Yk-rr2"; */
+"xKN-Yk-rr2.ibShadowedToolTip" = "區分大小寫";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yeH-NC-mae"; */
+"yeH-NC-mae.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "zKO-YB-DsQ"; */
+"zKO-YB-DsQ.headerCell.title" = "大小";

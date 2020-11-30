@@ -1,0 +1,11 @@
+"Name" = "Ad";
+"Date Modified" = "Değiştirme Tarihi";
+"Size" = "Boyut";
+"Kind" = "Tür";
+"File" = "Dosya";
+"Folder" = "Klasör";
+"Archive is encrypted, can't be previewed!" = "Arşiv şifreli, ön izleme yapılamıyor!";
+"Archive %@ (Original %@) a total of %d Files" = "Arşiv %@ (Orijinal %@) toplam %d Dosyayı Arşivle";
+"Archive %@ (Original %@) a total of %d Files and %d Folders" = "Arşiv %@ (Orijinal %@) toplam %d Dosyayı ve %d Klasörü arşivle";
+"Archive %@ (Original %@) a total of %d Folders" = "Arşiv %@ (Orijinal %@) toplam %d Klasör arşivle";
+"Archive (Empty)" = "Arşiv (Boş)";

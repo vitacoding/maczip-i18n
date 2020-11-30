@@ -1,0 +1,36 @@
+
+/* Class = "NSButtonCell"; title = ".svn version control folder"; ObjectID = "0Xq-Ea-glf"; */
+"0Xq-Ea-glf.title" = ".svn sürüm kontrol klasörü";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "AHd-BZ-Y5q"; */
+"AHd-BZ-Y5q.title" = "İptal";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove SVN folder: \".svn\""; ObjectID = "Bw6-QX-fT4"; */
+"Bw6-QX-fT4.ibShadowedToolTip" = "SVN klasörünü kaldır:\".svn\"";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Git folder: \".git\""; ObjectID = "EfX-ai-kwF"; */
+"EfX-ai-kwF.ibShadowedToolTip" = "Git klasörünü kaldır:\".git\"";
+
+/* Class = "NSButtonCell"; title = ".git version control folder"; ObjectID = "PUm-JA-gqV"; */
+"PUm-JA-gqV.title" = ".git sürüm kontrol klasörü";
+
+/* Class = "NSButtonCell"; title = "All hidden files"; ObjectID = "bo3-HH-uqr"; */
+"bo3-HH-uqr.title" = "Tüm gizli dosyalar";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove all hidden file and folders start with \".\""; ObjectID = "h5i-xN-Kx9"; */
+"h5i-xN-Kx9.ibShadowedToolTip" = "\".\" İle başlayan tüm gizli dosya ve klasörleri kaldırın";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "hQF-Zq-twt"; */
+"hQF-Zq-twt.title" = "Tamam";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove temporary files: \"Thumbs.db\""; ObjectID = "men-91-yrf"; */
+"men-91-yrf.ibShadowedToolTip" = "Geçici dosyaları kaldırın: \"Thumbs.db\"";
+
+/* Class = "NSButtonCell"; title = "Windows system temporary files"; ObjectID = "ryK-uu-9gD"; */
+"ryK-uu-9gD.title" = "Windows sistemi geçici dosyaları";
+
+/* Class = "NSButtonCell"; title = "macOS system temporary files"; ObjectID = "tDm-S7-6Ye"; */
+"tDm-S7-6Ye.title" = "macOS sistemi geçici dosyaları";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove temporary files: \".DS_Store\" and \"__MACOSX\" folder"; ObjectID = "w3p-lq-X8l"; */
+"w3p-lq-X8l.ibShadowedToolTip" = "Geçici dosyaları kaldırın: \".DS_Store\" ve \"__MACOSX\" klasörü";

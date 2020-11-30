@@ -1,0 +1,36 @@
+
+/* Class = "NSButtonCell"; title = ".svn version control folder"; ObjectID = "0Xq-Ea-glf"; */
+"0Xq-Ea-glf.title" = "SVN 版本控制文件夹";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "AHd-BZ-Y5q"; */
+"AHd-BZ-Y5q.title" = "取消";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove SVN folder: \".svn\""; ObjectID = "Bw6-QX-fT4"; */
+"Bw6-QX-fT4.ibShadowedToolTip" = "移除 SVN 文件夹：\".svn\"";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Git folder: \".git\""; ObjectID = "EfX-ai-kwF"; */
+"EfX-ai-kwF.ibShadowedToolTip" = "移除 Git 文件夹：\".git\"";
+
+/* Class = "NSButtonCell"; title = ".git version control folder"; ObjectID = "PUm-JA-gqV"; */
+"PUm-JA-gqV.title" = "Git 版本控制文件夹";
+
+/* Class = "NSButtonCell"; title = "All hidden files"; ObjectID = "bo3-HH-uqr"; */
+"bo3-HH-uqr.title" = "所有隐藏文件";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove all hidden file and folders start with \".\""; ObjectID = "h5i-xN-Kx9"; */
+"h5i-xN-Kx9.ibShadowedToolTip" = "移除所有以 \".\" 开头的隐藏文件及文件夹";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "hQF-Zq-twt"; */
+"hQF-Zq-twt.title" = "清理";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove temporary files: \"Thumbs.db\""; ObjectID = "men-91-yrf"; */
+"men-91-yrf.ibShadowedToolTip" = "移除所有临时文件: \"Thumbs.db\"";
+
+/* Class = "NSButtonCell"; title = "Windows system temporary files"; ObjectID = "ryK-uu-9gD"; */
+"ryK-uu-9gD.title" = "Windows 平台缓存文件";
+
+/* Class = "NSButtonCell"; title = "macOS system temporary files"; ObjectID = "tDm-S7-6Ye"; */
+"tDm-S7-6Ye.title" = "macOS 平台缓存文件";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove temporary files: \".DS_Store\" and \"__MACOSX\" folder"; ObjectID = "w3p-lq-X8l"; */
+"w3p-lq-X8l.ibShadowedToolTip" = "移除临时文件: \".DS_Store\" 和 \"__MACOSX\" 文件夹";

@@ -1,0 +1,18 @@
+
+/* Class = "NSTextFieldCell"; title = "打开压缩文档"; ObjectID = "1rd-Hr-1d8"; */
+"1rd-Hr-1d8.title" = "Arşivi Çıkar";
+
+/* Class = "NSTextFieldCell"; title = "新建压缩文档"; ObjectID = "mFg-BP-UYU"; */
+"mFg-BP-UYU.title" = "Arşivle..";
+
+/* Class = "NSTextFieldCell"; title = "批量解密文件"; ObjectID = "lTr-Nx-orw"; */
+"lTr-Nx-orw.title" = "Şifreyi Çöz..";
+
+/* Class = "NSTextFieldCell"; title = "批量加密文件"; ObjectID = "rV1-hf-Lyb"; */
+"rV1-hf-Lyb.title" = "Şifrele..";
+
+/* Class = "NSTextFieldCell"; title = "Recents"; ObjectID = "qzX-pD-KVt"; */
+"qzX-pD-KVt.title" = "Son dosyalar";
+
+/* Class = "NSTextFieldCell"; title = "Drag and drop files here or to buttons above can perform related operations."; ObjectID = "aKq-cq-2tN"; */
+"aKq-cq-2tN.title" = "Dosyaları buraya veya yukarıdaki düğmelere sürükleyip bırakarak ilgili işlemleri gerçekleştirebilirsiniz";

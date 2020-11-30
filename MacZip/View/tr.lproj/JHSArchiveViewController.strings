@@ -1,0 +1,105 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Find in this archive"; ObjectID = "038-Zd-CQP"; */
+"038-Zd-CQP.ibShadowedToolTip" = "Bu arşivde bul";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "7Tk-CK-VHT"; */
+"7Tk-CK-VHT.title" = "Tablo Görüntüleme Hücresi";
+
+/* Class = "NSView"; ibShadowedToolTip = "Add new files"; ObjectID = "7gq-oy-CQV"; */
+"7gq-oy-CQV.ibShadowedToolTip" = "Yeni dosya ekle";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Find"; ObjectID = "8dg-ED-Veh"; */
+"8dg-ED-Veh.placeholderString" = "Bul";
+
+/* Class = "NSTextFieldCell"; title = "Add"; ObjectID = "Akc-MV-hGK"; */
+"Akc-MV-hGK.title" = "Ekle";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Bgi-Mx-hDm"; */
+"Bgi-Mx-hDm.title" = "Tablo Görüntüleme Hücresi";
+
+/* Class = "NSButtonCell"; title = "Preview"; ObjectID = "DFP-cx-VLK"; */
+"DFP-cx-VLK.title" = "Önizleme";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EdA-vd-Au4"; */
+"EdA-vd-Au4.title" = "Metin Hücresi";
+
+/* Class = "NSTextFieldCell"; title = "Reveal in QSpace"; ObjectID = "GcG-Fd-c6B"; */
+"GcG-Fd-c6B.title" = "QSpace'de Görüntüle";
+
+/* Class = "NSView"; ibShadowedToolTip = "Clean up temporary files"; ObjectID = "IP3-PU-Rs3"; */
+"IP3-PU-Rs3.ibShadowedToolTip" = "Sıkıştırılmış paketteki geçici dosyaları temizleyin";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "JV1-bR-y2r"; */
+"JV1-bR-y2r.title" = "Metin Hücresi";
+
+/* Class = "NSView"; ibShadowedToolTip = "Remove selections"; ObjectID = "Js8-9F-WVi"; */
+"Js8-9F-WVi.ibShadowedToolTip" = "Seçili içeriği sıkıştırılmış paketten kaldır";
+
+/* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "LAM-ex-qV5"; */
+"LAM-ex-qV5.headerCell.title" = "Tür";
+
+/* Class = "NSTextFieldCell"; title = "Clean"; ObjectID = "OK6-Pa-Ubs"; */
+"OK6-Pa-Ubs.title" = "Temizle";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "QNi-Gc-1AP"; */
+"QNi-Gc-1AP.title" = "Öğe 3";
+
+/* Class = "NSTextFieldCell"; title = "No items selected."; ObjectID = "QQL-AB-1F9"; */
+"QQL-AB-1F9.title" = "Hiçbir öğe seçilmedi.";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Rme-HR-ex3"; */
+"Rme-HR-ex3.title" = "Öğe 2";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Ygf-nu-CIO"; */
+"Ygf-nu-CIO.title" = "Öğe 2";
+
+/* Class = "NSTextFieldCell"; title = "Extract"; ObjectID = "Ynt-QI-oI8"; */
+"Ynt-QI-oI8.title" = "Çıkar";
+
+/* Class = "NSView"; ibShadowedToolTip = "Extract the whole archive"; ObjectID = "bE4-0S-KNi"; */
+"bE4-0S-KNi.ibShadowedToolTip" = "Tüm arşivi çıkar";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "cBo-jW-sSW"; */
+"cBo-jW-sSW.title" = "Öğe 1";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "cGF-mF-ZqR"; */
+"cGF-mF-ZqR.title" = "Tablo Görüntüleme Hücresi";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "dzB-5P-Ouy"; */
+"dzB-5P-Ouy.title" = "Tablo Görüntüleme Hücresi";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "g8k-jx-oSb"; */
+"g8k-jx-oSb.title" = "Öğe 3";
+
+/* Class = "NSTextFieldCell"; title = "Extract All"; ObjectID = "h8w-qB-7Oq"; */
+"h8w-qB-7Oq.title" = "Tümünü Çıkar";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "jm7-Vw-Otl"; */
+"jm7-Vw-Otl.headerCell.title" = "Değiştirme Tarihi";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "lJN-Eu-yWC"; */
+"lJN-Eu-yWC.headerCell.title" = "Ad";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show side preview"; ObjectID = "lao-VW-wYH"; */
+"lao-VW-wYH.ibShadowedToolTip" = "Yan önizlemeyi göster / gizle";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Using regular expressions"; ObjectID = "lzH-cJ-3tt"; */
+"lzH-cJ-3tt.ibShadowedToolTip" = "Normal ifadeler kullanın";
+
+/* Class = "NSView"; ibShadowedToolTip = "Extract selections"; ObjectID = "mTs-bh-FHn"; */
+"mTs-bh-FHn.ibShadowedToolTip" = "Seçimleri ayıkla";
+
+/* Class = "NSTextFieldCell"; title = "Remove"; ObjectID = "oe1-Se-DFS"; */
+"oe1-Se-DFS.title" = "Kaldır";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "u8i-Fb-66F"; */
+"u8i-Fb-66F.title" = "Metin Hücresi";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Case sensitive"; ObjectID = "xKN-Yk-rr2"; */
+"xKN-Yk-rr2.ibShadowedToolTip" = "Büyük, küçük harfe duyarlı";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "yeH-NC-mae"; */
+"yeH-NC-mae.title" = "Metin Hücresi";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "zKO-YB-DsQ"; */
+"zKO-YB-DsQ.headerCell.title" = "Boyut";

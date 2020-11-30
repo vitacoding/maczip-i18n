@@ -1,0 +1,114 @@
+
+/* Class = "NSButtonCell"; title = "Follow System"; ObjectID = "0vB-Hd-NYg"; */
+"0vB-Hd-NYg.title" = "Görünüş (Sistemi Takip Et)";
+
+/* Class = "NSButtonCell"; title = "Get QSpace"; ObjectID = "2HJ-T5-8BC"; */
+"2HJ-T5-8BC.title" = "QSpace Al";
+
+/* Class = "NSButtonCell"; title = "Ignore .git and .svn folders"; ObjectID = "2ID-US-8na"; */
+"2ID-US-8na.title" = ".git ve .svn klasörlerini yoksay";
+
+/* Class = "NSButtonCell"; title = "Show side Preview by default"; ObjectID = "64h-Ol-XK8"; */
+"64h-Ol-XK8.title" = "Yan Önizlemeyi varsayılan olarak göster";
+
+/* Class = "NSMenuItem"; title = "<= 10 MB"; ObjectID = "8tb-6d-kaj"; */
+"8tb-6d-kaj.title" = "<= 10 MB";
+
+/* Class = "NSButtonCell"; title = "Reset Current Page"; ObjectID = "92V-Fm-gJs"; */
+"92V-Fm-gJs.title" = "Mevcut Sayfayı Sıfırla";
+
+/* Class = "NSButtonCell"; title = "Archive each selected item separately"; ObjectID = "Asc-P4-Ihu"; */
+"Asc-P4-Ihu.title" = "Seçilen her öğeyi ayrı ayrı arşivle";
+
+/* Class = "NSMenuItem"; title = "<= 50 MB"; ObjectID = "DKr-I3-eML"; */
+"DKr-I3-eML.title" = "<= 50 MB";
+
+/* Class = "NSMenuItem"; title = "<= 100 MB"; ObjectID = "Dcf-HB-aBb"; */
+"Dcf-HB-aBb.title" = "<= 100 MB";
+
+/* Class = "NSWindow"; title = "Preferences - MacZip"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Tercihler - MacZip";
+
+/* Class = "NSButtonCell"; title = "Select target in Finder after archive is completed"; ObjectID = "GuV-CU-xoy"; */
+"GuV-CU-xoy.title" = "Sıkıştırma tamamlanınca Finder'da Aç";
+
+/* Class = "NSButtonCell"; title = "Auto update"; ObjectID = "HMf-8K-0DW"; */
+"HMf-8K-0DW.title" = "Otomatik güncelle";
+
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "KPX-Gu-lHh"; */
+"KPX-Gu-lHh.title" = "Koyu";
+
+/* Class = "NSButtonCell"; title = "Reset Current Page"; ObjectID = "L2p-Ya-0Ke"; */
+"L2p-Ya-0Ke.title" = "Mevcut Sayfayı Sıfırla";
+
+/* Class = "NSMenuItem"; title = "<= 1 MB"; ObjectID = "QIy-j4-B14"; */
+"QIy-j4-B14.title" = "<= 1 MB";
+
+/* Class = "NSTextFieldCell"; title = "QSpace is alternate of Finder developed by the author of MacZip, it's well worth a try!\n\n[ Features ]\n\n* Browse archives just like browsing a folder!\n* Present 4 folders in one window at the same time.\n* Quickly access any location!\n* Create any kind of new files at any folder.\n* One-click to open Terminal & Editor.\n* Connect to FTP/SFTP/WebDAV/OneDrive servers.\n* Rich customization: Context Menu, Hotkeys, Toolbar, Touch Bar.\n\nAnd more..."; ObjectID = "R7W-0f-Ude"; */
+"R7W-0f-Ude.title" = "QSpace, MacZip yazarı tarafından geliştirilmiş bir Finder gelişmiş dosya yöneticisidir, denemeye değer! \n\n [Özellikler] \n\n* Sıkıştırılmış pakete bir klasör gibi göz atın! \n* Tek bir pencerede aynı anda 4 klasörü görüntüleme desteği. \n* Her yola kolay erişim! \n* Çeşitli belge türleri oluşturmayı destekler. \n* Terminali veya düzenleyiciyi başlatmak için tek tıklamayı destekleyin. \n* FTP/SFTP/WebDAV/OneDrive ve diğer sunuculara bağlantıyı destekler. \n* Zengin özelleştirme öğeleri: sağ tıklama menüsü, kısayol tuşları, araç çubuğu, dokunmatik çubuk. \n\n Şahin ŞAHİN  [Türkçe Çeviri]";
+
+/* Class = "NSTextFieldCell"; title = "To keep security of your system and privacy, MacZip is based on the Apple's Sandbox mechanism. The file association needs to be set byMacZip Assistant\" or manually.\n\n[Manual Steps]\n\n1. On the file you wish to set the association, call the right-click menu.\n2. Click on the \"Get Info\" menu item.\n3. SelecMacZip in \"Open with\".\n4. Click \"Change All...\" to associate this type of file.\n"; ObjectID = "Ts6-Td-uhc"; */
+"Ts6-Td-uhc.title" = "Sisteminizi ve gizliliğinizi korumak için MacZip, Apple Sandbox mekanizması temel alınarak geliştirilmiştir. Dosya ilişkilendirmesi MacZip Assistant üzerinden veya manuel olarak ayarlanabilir. \n\n [Manuel Ayar] \n\n1. İlişkilendirmeyi ayarlamak istediğiniz dosyada sağ tıklama menüsünü açın. \n2. Tanıtımı Göster menü öğesini tıklayın. \n3. Birlikte Aç da MacZip'i seçin. \n4. Bu dosya türünü ilişkilendirmek için Tümünü Değiştir... seçeneğini tıklayın.";
+
+/* Class = "NSButtonCell"; title = "Preview document files automatically"; ObjectID = "Vl4-By-h83"; */
+"Vl4-By-h83.title" = "Belge dosyalarını otomatik olarak önizleyin";
+
+/* Class = "NSButtonCell"; title = "Trim original extension when archiving single file"; ObjectID = "WeL-5S-C8x"; */
+"WeL-5S-C8x.title" = "Tek bir dosyayı arşivlerken orijinal uzantıyı kırp";
+
+/* Class = "NSButtonCell"; title = "Keep open history"; ObjectID = "Xet-aH-EEi"; */
+"Xet-aH-EEi.title" = "Açılan dosyaları hatırla (son kullanılanlar)";
+
+/* Class = "NSButtonCell"; title = "Set by MacZip Assistant"; ObjectID = "YSd-G8-vrP"; */
+"YSd-G8-vrP.title" = "MacZip Asistanını Ayarla";
+
+/* Class = "NSButtonCell"; title = "Show Toolbar at windows top"; ObjectID = "bnJ-6v-mzv"; */
+"bnJ-6v-mzv.title" = "Pencereler de üst barı varsayılan olarak göster";
+
+/* Class = "NSButtonCell"; title = "One-click Archive (Skip compress settings interface)"; ObjectID = "d3O-90-PlZ"; */
+"d3O-90-PlZ.title" = "Tek tıkla sıkıştırmayı etkinleştir (sıkıştırma ayarlarını atla)";
+
+/* Class = "NSButtonCell"; title = "Auto save entered password"; ObjectID = "eCv-Vb-PYA"; */
+"eCv-Vb-PYA.title" = "Girilen parolayı otomatik kaydet";
+
+/* Class = "NSButtonCell"; title = "Close window after extracting all is completed"; ObjectID = "goL-t6-Qxi"; */
+"goL-t6-Qxi.title" = "Tüm ayıklama tamamlandıktan sonra pencereyi kapat";
+
+/* Class = "NSButtonCell"; title = "Reset Current Page"; ObjectID = "hUg-pb-TWr"; */
+"hUg-pb-TWr.title" = "Mevcut Sayfayı Sıfırla";
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "jSk-bQ-esJ"; */
+"jSk-bQ-esJ.title" = "Açık";
+
+/* Class = "NSButtonCell"; title = "Open the target folder after the extraction is completed"; ObjectID = "nYr-GP-vge"; */
+"nYr-GP-vge.title" = "Çıkartma tamamlandıktan sonra hedef klasörü aç";
+
+/* Class = "NSButtonCell"; title = "Preview smaller files automatically:"; ObjectID = "ncU-0x-yCc"; */
+"ncU-0x-yCc.title" = "Küçük dosyaları otomatik olarak önizleyin";
+
+/* Class = "NSButtonCell"; title = "Automatically try passwords in the list when opening archives"; ObjectID = "nh8-q9-0er"; */
+"nh8-q9-0er.title" = "Arşivleri açarken listedeki şifreleri otomatik olarak deneyin";
+
+/* Class = "NSButtonCell"; title = "Ignore hidden files which name starts with \".\""; ObjectID = "pG2-bQ-pgz"; */
+"pG2-bQ-pgz.title" = "Adı \".\" ile başlayan gizli dosyaları yoksay";
+
+/* Class = "NSButtonCell"; title = "Remove original files after compression is completed"; ObjectID = "tb2-ZE-tsi"; */
+"tb2-ZE-tsi.title" = "Sıkıştırma tamamlandıktan sonra orijinal dosyaları kaldırın";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "uAu-bI-iz6"; */
+"uAu-bI-iz6.title" = "Kaydet";
+
+/* Class = "NSTextFieldCell"; title = "Password List ( one per line)"; ObjectID = "uZo-Bt-e8m"; */
+"uZo-Bt-e8m.title" = "Parola Listesi (satır başı 1prl)";
+
+/* Class = "NSButtonCell"; title = "Remove original archive after decompression is completed"; ObjectID = "vO7-qd-kzE"; */
+"vO7-qd-kzE.title" = "Açma tamamlandıktan sonra orijinal paketi sil";
+
+/* Class = "NSButtonCell"; title = "Ignore .DS_Store temporary files"; ObjectID = "vnb-c2-rpp"; */
+"vnb-c2-rpp.title" = "DS_Store geçici dosyalarını yoksay";
+
+/* Class = "NSMenuItem"; title = "<= 5 MB"; ObjectID = "xQZ-lZ-GEP"; */
+"xQZ-lZ-GEP.title" = "<= 5 MB";
+
+/* Class = "NSButtonCell"; title = "Preview image files automatically"; ObjectID = "ylc-UH-z9v"; */
+"ylc-UH-z9v.title" = "Görüntü dosyalarını otomatik olarak önizleyin";
